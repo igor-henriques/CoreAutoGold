@@ -1,0 +1,16 @@
+{ 	
+	"GAMEDBD":{
+		"HOST":"192.168.18.156",
+		"PORT":"29400"
+	},
+	"GPROVIDER":{
+		"HOST":"192.168.18.156",
+		"PORT":"29300"		
+	},
+	"GDELIVERYD":{
+		"HOST":"192.168.18.156",
+		"PORT":"29100"
+	},
+	"PW_VERSION":"156",
+	"LOGS_PATH":"/home/logs/"
+}

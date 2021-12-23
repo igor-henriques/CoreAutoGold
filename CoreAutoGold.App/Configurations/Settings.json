@@ -1,0 +1,19 @@
+﻿{
+  "DIA PARA CASH SEMANAL": "sunday",
+  "HORA PARA CASH DIARIO": 20,
+  "QUANTIA DE CASH SEMANAL": 1000,
+  "QUANTIA DE CASH DIARIO": 500,
+  "MULTIPLICADOR DE REQUISITO": 2,
+  "REQUISITOS": {
+    "Cultivo": 1,
+    "Nivel": 1,
+    "Item": 0
+  },
+  "FREQUENCIA DE RECOMPENSA": {
+    "Semanal": 1,
+    "Diario": 1
+  },
+  "CULTIVO MINIMO": 89,
+  "NIVEL MINIMO": 100,
+  "ITEM NECESSARIO": 0
+}

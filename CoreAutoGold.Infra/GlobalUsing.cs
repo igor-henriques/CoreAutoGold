@@ -1,0 +1,13 @@
+﻿global using CoreAutoGold.Infra.Data;
+global using CoreAutoGold.Infra.Models.Enums;
+global using CoreAutoGold.Infra.Utils;
+global using CureAutoGold.Infra.Data;
+global using CureAutoGold.Infra.Models.Server;
+global using Microsoft.Extensions.Logging;
+global using MySql.Data.MySqlClient;
+global using Newtonsoft.Json;
+global using Newtonsoft.Json.Linq;
+global using PWToolKit;
+global using PWToolKit.Models;
+global using PWToolKit.Packets;
+global using System.Diagnostics;
